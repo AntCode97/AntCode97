@@ -1,4 +1,4 @@
-### Develop Stack
+### Development Stack
 * Spring, Spring Boot, Node.js
 * Tensorflow, Pytorch, Keras
 * Kubernetes, Docker
