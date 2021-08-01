@@ -1,6 +1,3 @@
-### Web Developer capable of artificial intelligence.
-I usually use Spring, Node.js for web developing, Machine Learning, Deep Learning for artificial intelligence.
-
 ### Develop Stack
 * Spring, Spring Boot, Node.js
 * Tensorflow, Pytorch, Keras
